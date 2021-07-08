@@ -1,4 +1,24 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;}
+h1{color: grey;}
+div{
+  margin: auto;
+  width: 60%;
+  border: 3px solid glossy white;
+  padding: 10px;
+  color:black;
+  border-radius: 25px;
+  background: white;
+  padding: 20px; 
+  width: 600px;
+  height: 350px;
+	}
+ #result{
+ 		position: relative;
+ 		left: 100px;
+  		}
+label{position: relative; margin-left: 100px;}
+button{position: relative; margin-left: 100px;}
+#rate{position: relative;margin-left: 71px;}
+#principal{position: relative; margin-left: 100px;}
+#years{position: relative;margin-left: 71px;}
+#rate_val{position: relative; margin-left: 30px;}
